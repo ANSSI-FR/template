@@ -1,5 +1,3 @@
-# Templates
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="50%"><div> <h2 style="margin: 0;">Agence Nationale de Sécurité des Systèmes d'Information</h2> <p style="margin: 0;">ANSSI</p> </div> </div>
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
@@ -19,18 +17,3 @@ Ce projet est développé pour un besoin interne de l'ANSSI. Il est publié pour
 ### Degré d'ouverture
 
 **Niveau A - contributif :**  Le code source est publié, les contributions extérieures sont activement recherchées et traitées.
-
-## A propos
-
-Ce dépôt contient des fichiers modèles pour les dépôts créés dans
-l'organisation ANSSI-FR. Ces fichiers, disponibles dans le répertoire `modeles` représentent la politique par défaut pour
-les projets ANSSI et peuvent être adaptés en fonction de la feuille de route
-souhaitée par le projet.
-
-- [LICENSE](LICENSE) contient la license par défaut (Apache 2.0)
-- [CONTRIBUTING](CONTRIBUTING.md) contient la politique de contribution par
-  défaut:
-  - les contributions extérieures ne sont pas activement recherchées
-  - sont uniquement acceptées les contributions concernant la sécurité
-- [SECURITY](SECURITY.md) contient la politique de sécurité (contacter
-  opensource@ssi.gouv.fr en cas de problème de sécurité sur un projet)
