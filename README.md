@@ -1,6 +1,8 @@
 # Templates
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="50%"><div> <h2 style="margin: 0;">Agence Nationale de Sécurité des Systèmes d'Information</h2> <p style="margin: 0;">ANSSI</p> </div> </div>
+<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="30%">
+
+## Agence Nationale de Sécurité des Systèmes d'Information
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
 ![badge_catégorie_interne](https://img.shields.io/badge/categorie-interne-lightgrey)

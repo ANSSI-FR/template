@@ -1,3 +1,5 @@
+# Badges disponibles
+
 Cette page regroupe les différents badges pouvant être insérés dans la page README d'un projet open source de l'ANSSI. Elle s'appuie sur le document de stratégie open source qui défini les différents types de projet de l'ANSSI ainsi que les degrés d'ouverture définis par la DINUM.
 
 ## Types de projets
