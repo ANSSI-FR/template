@@ -7,11 +7,10 @@
 [![badge_openness_B](https://img.shields.io/badge/code.gouv.fr-contributing-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
 
 ## Open Source at ANSSI
+
 This project is part of the Open Source policy of the National Cybersecurity Agency of France ([ANSSI](https://cyber.gouv.fr/open-source-lanssi)).
 
 ### Project category
-
-This is an internal project.
 
 **Internal project:** a project developed to meet an internal need of ANSSI, published for transparency reasons or to share useful resources with the ecosystem.
 

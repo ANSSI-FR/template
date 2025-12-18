@@ -13,10 +13,7 @@ Ce projet s'inscrit dans le cadre de la stratégie open source de l'Agence de S�
 
 ### Catégorie du projet
 
-Il s'agit d'un projet interne.
-
-**Projet internet :**
-Ce projet est développé pour un besoin interne de l'ANSSI. Il est publié pour des raisons de transparence ou par volonté de partager des ressources utiles à l'écosystème.
+**Projet internet :** Ce projet est développé pour un besoin interne de l'ANSSI. Il est publié pour des raisons de transparence ou par volonté de partager des ressources utiles à l'écosystème.
 
 ### Degré d'ouverture
 
