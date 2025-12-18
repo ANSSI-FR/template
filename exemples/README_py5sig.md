@@ -3,17 +3,15 @@ py5sig - SBA signaling messages automation and SBI fuzzer
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="50%"><div> <h2 style="margin: 0;">Agence Nationale de Sécurité des Systèmes d'Information</h2> <p style="margin: 0;">ANSSI</p> </div> </div>
 
-![badge_repo](https://img.shields.io/badge/ANSSI--FR-py5sig-white?logo=opensourceinitiative&style=for-the-badge)
-![badge_category_internal](https://img.shields.io/badge/Category-internal-lightgrey?style=for-the-badge)
-[![badge_openness_A](https://img.shields.io/badge/Openness-A-blue?style=for-the-badge)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
+![badge_repo](https://img.shields.io/badge/ANSSI--FR-py5sig-white)
+![badge_category_internal](https://img.shields.io/badge/category-internal-lightgrey)
+[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
 
 ## Project background
 
 This project is part of the Open Source policy of the National Cybersecurity Agency of France ([ANSSI](https://cyber.gouv.fr/open-source-lanssi)).
 
 ### Project category:
-
-This is an internal project.
 
 **Internal project:** a project developed to meet an internal need of ANSSI, published for transparency reasons or to share useful resources with the ecosystem.
 

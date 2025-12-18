@@ -4,7 +4,7 @@
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
 ![badge_catégorie_interne](https://img.shields.io/badge/categorie-interne-lightgrey)
-[![badge_openness_B](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
+[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
 
 ## L'open source à l'ANSSI
 Ce projet s'inscrit dans le cadre de la stratégie open source de l'Agence de Sécurité des Systèmes d'Information ([ANSSI](https://cyber.gouv.fr/open-source-lanssi)).

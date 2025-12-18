@@ -4,7 +4,7 @@
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
 ![badge_category_internal](https://img.shields.io/badge/category-internal-lightgrey)
-[![badge_openness_B](https://img.shields.io/badge/code.gouv.fr-contributing-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
+[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
 
 ## Open Source at ANSSI
 
