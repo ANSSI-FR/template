@@ -12,15 +12,15 @@ La stratégie open source de l'ANSSI identifie trois catégories de projets publ
   - code source ayant servi à réaliser un article scientifique ou à générer des données (artefacts de recherche),
   - contenu illustrant concrètement des recommandations de l'Agence ("actionnables")
 
-![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-lightgrey)
+![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-%23e9c7e7)
 
 - les **outils internes** : projets développés pour un besoin interne de l'ANSSI, publiés pour des raison de transparence ou par volonté de partager des ressources utiles à l'écosystème.
 
-![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-lightgrey)
+![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)
 
 - les **outils externes** : outils mis à disposition des bénéficiaires ou des partenaires de l'ANSSI (comme les CERT), accessibles directement ou à travers des services fournis pas l'Agence. La gouvernance de ces projets est assurée en interne.
 
-![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-lightgrey)
+![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)
 
 ## Degrés d'ouverture
 
@@ -28,12 +28,12 @@ Comme l'explicite le document de stratégie open source de l'ANSSI, cette [class
 
 - 📘 Niveau A - **contributif** : Le code source est publié, les contributions extérieures sont activement recherchées et traitées.
 
-![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)
+[![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
 
 - 📗 Niveau B - **ouvert** : Le code source est publié, les contributions extérieures sont traitées mais non activement recherchées.
 
-![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-lightgreen)
+[![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-green)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
 
 - 📙 Niveau C - **publié** : Le code source est publié mais les contributions extérieures ne sont pas traitées.
 
-![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)
+[![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)

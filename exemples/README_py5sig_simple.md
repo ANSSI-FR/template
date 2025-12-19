@@ -1,13 +1,15 @@
 py5sig - SBA signaling messages automation and SBI fuzzer
 =========================================
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="50%"><div> <h2 style="margin: 0;">Agence Nationale de Sécurité des Systèmes d'Information</h2> <p style="margin: 0;">ANSSI</p> </div> </div>
+<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="30%">
+
+## Agence Nationale de Sécurité des Systèmes d'Information
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-py5sig-white)
-![badge_category_internal](https://img.shields.io/badge/category-internal-lightgrey)
-[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources)
+![badge_category_internal](https://img.shields.io/badge/category-internal-%23d08fce)
+[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
 
-*For more information on the background of the project and the meaning of the badges, please see the [page dedicated to ANSSI's open source strategy](https://cyber.gouv.fr/open-source-lanssi).*
+*For more information on the background of this project, please see the [page dedicated to ANSSI's open source strategy](https://cyber.gouv.fr/open-source-lanssi). You can also click on the badges to learn more about their meaning*
 
 Introduction
 ------------
