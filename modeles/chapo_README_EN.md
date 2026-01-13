@@ -1,9 +1,9 @@
-<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="30%">
+<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="ANSSI logo" width="30%">
 
-## Agence Nationale de Sécurité des Systèmes d'Information
+## French Cybersecurity Agency (ANSSI)
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
 ![badge_category_internal](https://img.shields.io/badge/category-internal-%23d08fce)
-[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
-*For more information on the background of this project, please see the [page dedicated to ANSSI's open source strategy](https://cyber.gouv.fr/open-source-lanssi). You can also click on the badges to learn more about their meaning*
+*This projet is managed by [ANSSI](https://cyber.gouv.fr/).To find out more, you can go to the [dedicated page to the open source strategy of ANSSI](https://cyber.gouv.fr/open-source-lanssi). You can also click on the badges to learn more about their meaning*

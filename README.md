@@ -1,19 +1,19 @@
 # Templates
 
-<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Texte alternatif" width="30%">
+<img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="Logo ANSSI" width="30%">
 
-## Agence Nationale de Sécurité des Systèmes d'Information
+## Agence nationale de la sécurité des systèmes d'information
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
 ![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)
-[![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
-*Pour plus d'informations sur le contexte open source de ce projet veuillez consulter la [page dédiée à la stratégie open source de l'ANSSI](https://cyber.gouv.fr/open-source-lanssi). Vous pouvez également cliquer sur les badges pour en savoir plus sur leur signification.*
+*Ce projet est édité par l'[ANSSI](https://cyber.gouv.fr/). Pour en sa  [page dédiée à la stratégie open source de l'ANSSI](https://cyber.gouv.fr/open-source-lanssi). Vous pouvez également cliquer sur les badges pour en savoir plus sur leur signification.*
 
 ## A propos
 
 Ce dépôt contient des fichiers modèles pour les dépôts créés dans
-l'organisation ANSSI-FR. Ces fichiers, disponibles dans le répertoire `modeles` représentent la politique par défaut pour
+l'organisation ANSSI-FR. Ces fichiers, disponibles dans le répertoire [modeles](/modeles/) représentent la politique par défaut pour
 les projets open source de l'ANSSI et peuvent être adaptés en fonction de la feuille de route souhaitée par le projet.
 
 - [LICENSE](modeles/LICENSE) contient la license par défaut (Apache 2.0)
@@ -62,24 +62,24 @@ Ce badge fait référence à la stratégie open source de l'ANSSI présentée su
 [![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
 ```
 
-### Degré d'ouverture
+### Niveau d'ouverture
 
-Le niveau de contribution attendu par le projet open source est indiqué à l'aide de 3 badges tirés de la [classification élaborée par la DINUM](https://guides.data.gouv.fr/autres-ressources-utiles/codes-sources-du-secteur-public-lesquels-ouvrir-pourquoi-et-comment#clarifier-quels-degres-douverture-pour-les-codes-sources). Les badges disponibles pour adapter le chapô sont repris avec le visuel et la ligne markdown associée :
+Le niveau de contribution attendu par le projet open source est indiqué à l'aide de 3 badges tirés de la [classification élaborée par la DINUM](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture). Les badges disponibles pour adapter le chapô sont repris avec le visuel et la ligne markdown associée :
 
-* 📘 Niveau A - **contributif** [![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+* 📘 Niveau A - **contributif** [![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
 ```md
-[![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 ```
 
-* 📗 Niveau B - **ouvert** [![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-green)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+* 📗 Niveau B - **ouvert** [![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-green)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
 ```md
-[![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-green)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![badge_ouverture_B](https://img.shields.io/badge/code.gouv.fr-ouvert-green)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 ```
 
-* 📙 Niveau C - **publié** [![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+* 📙 Niveau C - **publié** [![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
 ```md
-[![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 ```
