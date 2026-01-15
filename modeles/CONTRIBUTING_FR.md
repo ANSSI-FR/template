@@ -4,7 +4,7 @@ Merci pour votre intérêt dans ce projet. Veuillez lire attentivement ce docume
 
 ## Portée des contributions
 
-Ce projet n’accepte que les contributions relatives au maintien de la sécurité. Aucun autre type de contribution n’est attendue ou acceptée actuellement.
+Ce projet n’accepte que les contributions relatives au maintien en conditions de sécurité (MCS). Aucun autre type de contribution n’est attendue ou acceptée actuellement.
 
 ## Politique de support
 
@@ -13,20 +13,19 @@ Merci de comprendre et de respecter la portée limitée des contributions et du 
 ### Portée limitée du support
 
 * Le support est fourni exclusivement aux contributeurs travaillant sur des améliorations liées à la sécurité.
-* Les mainteneurs du projet ne fourniront de l’aide que pour des problèmes directement liés à vos contributions de maintien de la sécurité.
+* Les mainteneurs du projet ne fourniront de l’aide que pour des problèmes directement liés aux contributions de maintien en conditions de sécurité.
 
-### Aucun support
+### Aucun support utilisateur
 
 * Nous ne proposons pas de support pour utiliser ou configurer le projet.
-* Les questions, demandes de fonctionnalités ou problèmes non liés aux contributions de maintien de la sécurité ne seront pas traités.
+* Les questions, demandes de fonctionnalités ou problèmes non liés aux contributions de maintien en conditions de sécurité ne seront pas traités.
 
-## Comment Contribuer
+## Comment contribuer
 
-1. Assurez-vous que votre contribution est strictement liée au maintien de la sécurité.
+1. Assurez-vous que votre contribution est strictement liée au maintien en conditions de sécurité.
 2. Clonez le dépôt et créez une nouvelle branche pour votre travail.
 3. Soumettez une _pull request_ avec une description claire de vos améliorations liées à la sécurité.
 
-
 ## Vulnérabilités
 
-Si vous découvrez une vulnérabilité, veuillez la signaler selon notre politique de sécurité décrite dans le fichier `SECURITY.md`.
+Si vous découvrez une vulnérabilité dans ce projet, veuillez la signaler selon la politique de sécurité décrite dans le fichier `SECURITY.md`.
