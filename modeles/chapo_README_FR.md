@@ -6,4 +6,4 @@
 ![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)
 [![badge_ouverture_A](https://img.shields.io/badge/code.gouv.fr-contributif-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
-*Ce projet est édité par l'[ANSSI](https://cyber.gouv.fr/). Pour en sa  [page dédiée à la stratégie open source de l'ANSSI](https://cyber.gouv.fr/open-source-lanssi). Vous pouvez également cliquer sur les badges pour en savoir plus sur leur signification.*
+*Ce projet est édité par l'[ANSSI](https://cyber.gouv.fr/). Pour en savoir plus, voir la [page dédiée à la stratégie open source de l'ANSSI](https://cyber.gouv.fr/open-source-lanssi). Vous pouvez également cliquer sur les badges pour en savoir plus sur leur signification.*
