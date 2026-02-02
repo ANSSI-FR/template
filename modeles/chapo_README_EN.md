@@ -6,4 +6,4 @@
 [![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
 [![openess_badge_A](https://img.shields.io/badge/code.gouv.fr-collaborative-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
-*This projet is managed by [ANSSI](https://cyber.gouv.fr/).To find out more, you can go to the [page](https://cyber.gouv.fr/enjeux-technologiques/open-source/) (in French) dedicated to the ANSSI open source strategy. You can also click on the badges to learn more about their meaning*
+*This projet is managed by [ANSSI](https://cyber.gouv.fr/). To find out more, you can go to the [page](https://cyber.gouv.fr/enjeux-technologiques/open-source/) (in French) dedicated to the ANSSI open source strategy. You can also click on the badges above to learn more about their meaning*
