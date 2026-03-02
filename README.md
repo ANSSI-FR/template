@@ -43,23 +43,23 @@ Par exemple, utiliser `template--test` pour afficher ![badge_repo](https://img.s
 
 ### Catégorie du projet
 
-Ce badge fait référence à la stratégie open source de l'ANSSI présentée sur la [page Open source du site de l'agence](https://cyber.gouv.fr/enjeux-technologiques/open-source/). Les différents types de projets sont aussi présentés sur la [page `README.md`](https://github.com/ANSSI-FR#types-de-projets) de l'organisation **ANSSI-FR**. A chacune des trois catégories est associé un badge que vous pouvez copier/coller pour configurer le chapô. Pour faciliter l'intégration, nous reprenons ici les trois badges et la ligne markdown associée :
+Ce badge fait référence à la stratégie open source de l'ANSSI présentée sur la [page Open source du site de l'agence](https://cyber.gouv.fr/enjeux-technologiques/open-source/). Les différents types de projets sont aussi présentés sur la [page `README.md`](https://anssi-fr.github.io/#types-de-projets) de l'organisation **ANSSI-FR**. A chacune des trois catégories est associé un badge que vous pouvez copier/coller pour configurer le chapô. Pour faciliter l'intégration, nous reprenons ici les trois badges et la ligne markdown associée :
 
-* projets doctrinaux [![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+* projets doctrinaux [![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-%23e9c7e7)](https://anssi-fr.github.io/#types-de-projets)
 ```md
-[![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+[![badge_catégorie_doctrinal](https://img.shields.io/badge/catégorie-doctrinal-%23e9c7e7)](https://anssi-fr.github.io/#types-de-projets)
 ```
 
-* les outils internes [![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+* les outils internes [![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)](https://anssi-fr.github.io/#types-de-projets)
 
 ```md
-[![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+[![badge_catégorie_interne](https://img.shields.io/badge/catégorie-interne-%23d08fce)](https://anssi-fr.github.io/#types-de-projets)
 ```
 
-* les outils externes [![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+* les outils externes [![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://anssi-fr.github.io/#types-de-projets)
 
 ```md
-[![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+[![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://anssi-fr.github.io/#types-de-projets)
 ```
 
 #### Version anglaise
