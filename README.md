@@ -66,21 +66,21 @@ Ce badge fait référence à la stratégie open source de l'ANSSI présentée su
 
 Pour les projets en anglais, vous pouvez utiliser les badges suivants :
 
-* doctrinal projects [![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+* doctrinal projects [![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://anssi-fr.github.io/README.en.html#project-categories)
 ```md
-[![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+[![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://anssi-fr.github.io/README.en.html#project-categories)
 ```
 
-* internal tools [![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+* internal tools [![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://anssi-fr.github.io/README.en.html#project-categories)
 
 ```md
-[![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+[![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://anssi-fr.github.io/README.en.html#project-categories)
 ```
 
-* external tools [![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+* external tools [![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://anssi-fr.github.io/README.en.html#project-categories)
 
 ```md
-[![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+[![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://anssi-fr.github.io/README.en.html#project-categories)
 ```
 
 ### Niveau d'ouverture
