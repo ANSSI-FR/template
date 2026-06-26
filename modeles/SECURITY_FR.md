@@ -14,7 +14,17 @@ détails suivants :
     * les étapes pour reproduire la vulnérabilité ;
     * toute incidence potentielle ou scénarios d’exploitation possibles.
 
-De plus, **si vous analysez ce projet à l'aide d'outils d'IA générative** (LLM,
+## Numéro de CVE
+
+L'ANSSI n'est pas CNA[^CNA] et ne peut donc pas attribuer d'identifiant CVE. Vous
+pouvez effectuer une requête directement auprès du MITRE sur
+https://mitre.github.io/mitre-cve-roles/cve-id-request/
+
+[^CNA]: CVE Numbering Authority
+
+## Utilisation d'outils d'IA générative
+
+**Si vous analysez ce projet à l'aide d'outils d'IA générative** (LLM,
 assistants de code ou de recherche de vulnérabilités etc.), et que celui-ci
 semble découvrir une vulnérabilité, nous vous demandons :
 * d'indiquer explicitement l'utilisation d'outils d'IA générative, d'indiquer
